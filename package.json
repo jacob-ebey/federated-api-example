@@ -16,7 +16,7 @@
   "devDependencies": {
     "copy-webpack-plugin": "^5.1.1",
     "webpack": "^5.0.0-beta.16",
-    "webpack-cli": "^3.3.11",
+    "webpack-cli": "^3.3.12",
     "webpack-node-externals": "^1.7.2"
   }
 }
